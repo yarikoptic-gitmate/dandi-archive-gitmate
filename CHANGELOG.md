@@ -1,3 +1,52 @@
+# v1.2.0 (Mon Nov 02 2026)
+
+#### 🚀 Enhancement
+
+- fix: allow Googlebot to fetch schemas and stats [#2988](https://github.com/dandi/dandi-archive/pull/2988) (bdichter@Benjamins-Mac-mini.local [@bendichter](https://github.com/bendichter))
+
+#### 🐛 Bug Fix
+
+- Update DOI rewrite script to include more cases [#2975](https://github.com/dandi/dandi-archive/pull/2975) ([@jjnesbitt](https://github.com/jjnesbitt))
+
+#### Authors: 3
+
+- Ben Dichter ([@bendichter](https://github.com/bendichter))
+- Benjamin Dichter (bdichter@Benjamins-Mac-mini.local)
+- Jacob Nesbitt ([@jjnesbitt](https://github.com/jjnesbitt))
+
+---
+
+# v1.1.1 (Thu Oct 29 2026)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, GitMate for @yarikoptic ([@yarikoptic-gitmate](https://github.com/yarikoptic-gitmate)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Add e2e tests for the table viewer [#2974](https://github.com/dandi/dandi-archive/pull/2974) ([@CodyCBakerPhD](https://github.com/CodyCBakerPhD) [@yarikoptic-gitmate](https://github.com/yarikoptic-gitmate))
+- Don't expose oauth application management URLs [#2978](https://github.com/dandi/dandi-archive/pull/2978) ([@CodyCBakerPhD](https://github.com/CodyCBakerPhD) [@jjnesbitt](https://github.com/jjnesbitt))
+
+#### Authors: 3
+
+- Cody Baker ([@CodyCBakerPhD](https://github.com/CodyCBakerPhD))
+- GitMate for @yarikoptic ([@yarikoptic-gitmate](https://github.com/yarikoptic-gitmate))
+- Jacob Nesbitt ([@jjnesbitt](https://github.com/jjnesbitt))
+
+---
+
+# v1.1.0 (Tue Oct 20 2026)
+
+#### 🚀 Enhancement
+
+- Disable AI meditor on published versions [#2973](https://github.com/dandi/dandi-archive/pull/2973) ([@waxlamp](https://github.com/waxlamp))
+
+#### Authors: 1
+
+- Roni Choudhury ([@waxlamp](https://github.com/waxlamp))
+
+---
+
 # v1.0.19 (Wed Oct 14 2026)
 
 :tada: This release contains work from a new contributor! :tada:
