@@ -1889,6 +1889,7 @@ def test_asset_direct_orphaned(api_client, asset):
     assert api_client.get(f'/api/assets/{asset.asset_id}/download/').status_code == 404
 
 
+@pytest.mark.ai_generated
 @pytest.mark.django_db
 def test_asset_direct_multiple_versions(api_client, published_asset):
     # Unchanged assets are shared by the draft and any published versions
